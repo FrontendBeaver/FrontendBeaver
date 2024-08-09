@@ -26,10 +26,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=vue-dark"><img src="https://github-profile-trophy.vercel.app/?username=frontendbeaver&theme=vue-dark&show_icons" alt="frontendbeaver" /></a> </p>
 
-<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=frontendbeaver&bg_color=d1ffe3&color=0f100f&line=4c9e61&point=403d3d&area=true&hide_border=true" alt="frontendbeaver" /> </p>  
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendbeaver&locale=en&theme=vue-dark&show_icons" alt="Janani1727theme=algolia" 
+          width ="100%"   
+        height="235px"
+        /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendbeaver&theme=vue-dark&show_icons" alt="Janani1727theme=algolia" 
+          width ="100%"   
+        height="235px"
+        /></p>
+<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=frontendbeaver&bg_color=d1ffe3&color=0f100f&line=4c9e61&point=403d3d&area=true&hide_border=true" alt="frontendbeaver" /> </p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendbeaver&locale=en&theme=vue-dark&show_icons" alt="frontendbeaver" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendbeaver&theme=vue-dark&show_icons" alt="frontendbeaver" /></p>
 
