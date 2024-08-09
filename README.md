@@ -31,5 +31,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendbeaver&locale=en&theme=vue-dark&show_icons" alt="frontendbeaver" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendbeaver&theme=vue-dark&show_icons" alt="frontendbeaver" /></p>
+
